@@ -1,8 +1,8 @@
 h1, h2 {
-    color: purple;
+    color: blue;
     }
     p {
-    color: gray;
+    color: red;
     }
     ul {
     border: 2px solid orange;
@@ -11,8 +11,8 @@ h1, h2 {
     border: 2px solid purple;
     }
     ol, ul {
-        padding: 5px 20px;
-        border-radius: 4px;
+        padding: 4px 20px;
+        border-radius: 6px;
         }
         h1, strong {
         color: purple;
